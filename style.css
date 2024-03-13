@@ -484,3 +484,8 @@ body.nature-on .nature-section {
 		font-size: 13vw;
 	}
 }
+img {
+  max-width: 100%;
+  height: auto;
+}
+
